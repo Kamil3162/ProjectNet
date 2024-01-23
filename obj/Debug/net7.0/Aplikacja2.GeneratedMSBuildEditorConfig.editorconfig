@@ -1,0 +1,165 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Aplikacja2
+build_property.RootNamespace = Aplikacja2
+build_property.ProjectDir = C:\Users\kamil\source\repos\Aplikacja2\Aplikacja2\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\kamil\source\repos\Aplikacja2\Aplikacja2
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/kamil/source/repos/Aplikacja2/Aplikacja2/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamil/source/repos/Aplikacja2/Aplikacja2/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamil/source/repos/Aplikacja2/Aplikacja2/Views/Kategories/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2F0ZWdvcmllc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamil/source/repos/Aplikacja2/Aplikacja2/Views/Kategories/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2F0ZWdvcmllc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamil/source/repos/Aplikacja2/Aplikacja2/Views/Kategories/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2F0ZWdvcmllc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamil/source/repos/Aplikacja2/Aplikacja2/Views/Kategories/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2F0ZWdvcmllc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamil/source/repos/Aplikacja2/Aplikacja2/Views/Kategories/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2F0ZWdvcmllc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamil/source/repos/Aplikacja2/Aplikacja2/Views/Komentarzes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS29tZW50YXJ6ZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamil/source/repos/Aplikacja2/Aplikacja2/Views/Komentarzes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS29tZW50YXJ6ZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamil/source/repos/Aplikacja2/Aplikacja2/Views/Komentarzes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS29tZW50YXJ6ZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamil/source/repos/Aplikacja2/Aplikacja2/Views/Komentarzes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS29tZW50YXJ6ZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamil/source/repos/Aplikacja2/Aplikacja2/Views/Komentarzes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS29tZW50YXJ6ZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamil/source/repos/Aplikacja2/Aplikacja2/Views/PostKategories/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdEthdGVnb3JpZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamil/source/repos/Aplikacja2/Aplikacja2/Views/PostKategories/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdEthdGVnb3JpZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamil/source/repos/Aplikacja2/Aplikacja2/Views/PostKategories/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdEthdGVnb3JpZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamil/source/repos/Aplikacja2/Aplikacja2/Views/PostKategories/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdEthdGVnb3JpZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamil/source/repos/Aplikacja2/Aplikacja2/Views/PostKategories/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdEthdGVnb3JpZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamil/source/repos/Aplikacja2/Aplikacja2/Views/Posts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamil/source/repos/Aplikacja2/Aplikacja2/Views/Posts/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamil/source/repos/Aplikacja2/Aplikacja2/Views/Posts/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamil/source/repos/Aplikacja2/Aplikacja2/Views/Posts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamil/source/repos/Aplikacja2/Aplikacja2/Views/Posts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamil/source/repos/Aplikacja2/Aplikacja2/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamil/source/repos/Aplikacja2/Aplikacja2/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamil/source/repos/Aplikacja2/Aplikacja2/Views/Tagis/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFnaXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamil/source/repos/Aplikacja2/Aplikacja2/Views/Tagis/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFnaXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamil/source/repos/Aplikacja2/Aplikacja2/Views/Tagis/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFnaXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamil/source/repos/Aplikacja2/Aplikacja2/Views/Tagis/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFnaXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamil/source/repos/Aplikacja2/Aplikacja2/Views/Tagis/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFnaXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamil/source/repos/Aplikacja2/Aplikacja2/Views/Uzytkownicies/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXp5dGtvd25pY2llc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamil/source/repos/Aplikacja2/Aplikacja2/Views/Uzytkownicies/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXp5dGtvd25pY2llc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamil/source/repos/Aplikacja2/Aplikacja2/Views/Uzytkownicies/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXp5dGtvd25pY2llc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamil/source/repos/Aplikacja2/Aplikacja2/Views/Uzytkownicies/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXp5dGtvd25pY2llc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamil/source/repos/Aplikacja2/Aplikacja2/Views/Uzytkownicies/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXp5dGtvd25pY2llc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamil/source/repos/Aplikacja2/Aplikacja2/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamil/source/repos/Aplikacja2/Aplikacja2/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamil/source/repos/Aplikacja2/Aplikacja2/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-afxmmr2ald
